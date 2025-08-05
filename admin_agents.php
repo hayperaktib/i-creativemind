@@ -2,7 +2,7 @@
 
 include 'admin_session.php';
 
-// Database credentials
+
 require "conn.php";
 
 ?>  
